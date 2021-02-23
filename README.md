@@ -8,10 +8,10 @@
 ## Whats a circuits ?  
 it's a modifying and processing the information that represented in ones and zeros.
 ## the hardware components :
-1-Circuits
-2-Plugs 
-3-Stuff
-4-Chips
+1. Circuits
+2. Plugs 
+3. Stuff
+4. Chips
 ## the software components :
 1-Apps 
 2-Websites
