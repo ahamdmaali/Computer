@@ -7,6 +7,7 @@
 
 ## The binary number system:
  A number system that corresponds only two numerical digits i.e., 0 and 1 is known as a binary number system. As it is a 2-digit system thus known as a base 2 system. The operation of a computer system solely relies on the binary number system. As it only understands binary values i.e., 0 and 1.
+
 ## Whats a circuits ?  
 it's a modifying and processing the information that represented in ones and zeros.
 
